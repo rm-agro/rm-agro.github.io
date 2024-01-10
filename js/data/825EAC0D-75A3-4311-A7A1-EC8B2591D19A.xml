@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.13.2.8.1:1", "", "Types", "EARoot/EA13/EA2/EA8/EA1/EA5492.htm", "175.png", "3894", "0", "", "Logical diagram0","{A1431F99-A219-4cd1-ADC5-B2577B4ED2EC}");
-tocTab[tocTab.length] = new Array("0.13.2.8.1:2", "", "«XSDcomplexType» ScheduleRequest", "EARoot/EA13/EA2/EA8/EA1/EA5495.htm", "5.png", "E11264", "0", "", "Class0","{6B6C91B3-5BFF-43ec-9468-2DB7AFCCB413}");
-tocTab[tocTab.length] = new Array("0.13.2.8.1:3", "", "«XSDcomplexType» ScheduleResponse", "EARoot/EA13/EA2/EA8/EA1/EA5496.htm", "5.png", "E11262", "0", "", "Class0","{99503ADD-7F1D-4c26-8BB1-733806BE029A}");
-tocTab[tocTab.length] = new Array("0.13.2.8.1:4", "", "«XSDcomplexType» ScheduleAvailableNotification", "EARoot/EA13/EA2/EA8/EA1/EA5497.htm", "5.png", "E11611", "0", "", "Class0","{8C23FA7B-625D-40e6-97E8-B9C67C39AEF4}");

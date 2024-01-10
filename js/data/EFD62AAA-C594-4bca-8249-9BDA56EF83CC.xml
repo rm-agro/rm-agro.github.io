@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.8.9.2.1.3:1", "", "Context Diagram: CV_ThiessenPolygonCoverage", "EARoot/EA8/EA9/EA2/EA1/EA3/EA2446.htm", "175.png", "3662", "0", "", "Logical diagram0","{4EE5DF68-7700-4e0c-BE84-AD1E7A726854}");
-tocTab[tocTab.length] = new Array("0.8.9.2.1.3:2", "", "Context Diagram: CV_ThiessenValuePolygon", "EARoot/EA8/EA9/EA2/EA1/EA3/EA2448.htm", "175.png", "3663", "0", "", "Logical diagram0","{D6D52EF3-4314-4d5e-B747-F888509AF268}");
-tocTab[tocTab.length] = new Array("0.8.9.2.1.3:3", "", "Fig 12 - CV_ThiessenPolygonCoverage", "EARoot/EA8/EA9/EA2/EA1/EA3/EA2450.htm", "175.png", "3661", "0", "", "Logical diagram0","{7248246A-E0EB-430e-9193-77A3DA319F49}");
-tocTab[tocTab.length] = new Array("0.8.9.2.1.3:4", "", "«type» CV_ThiessenPolygonCoverage", "EARoot/EA8/EA9/EA2/EA1/EA3/EA2453.htm", "5.png", "E8989", "0", "", "Class0","{80AF76B5-DAE0-4fbb-985E-CCEE3C2E33BE}");
-tocTab[tocTab.length] = new Array("0.8.9.2.1.3:5", "", "CV_ThiessenValuePolygon", "EARoot/EA8/EA9/EA2/EA1/EA3/EA2454.htm", "5.png", "E8990", "0", "", "Class0","{7067BAFD-3083-439e-8730-FF09433FC407}");

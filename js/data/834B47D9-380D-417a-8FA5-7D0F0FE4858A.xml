@@ -1,8 +1,0 @@
-tocTab[tocTab.length] = new Array("0.13.2.5:1", "", "Overview", "EARoot/EA13/EA2/EA5/EA5360.htm", "175.png", "3886", "0", "", "Logical diagram0","{B24A9465-644F-4d60-AB89-1CD5156609E9}");
-tocTab[tocTab.length] = new Array("0.13.2.5:2", "", "«WSDL» SampleWSDLFile", "EARoot/EA13/EA2/EA5/EA5364.htm", "10.png", "E10998", "0", "", "Component0","{AF1DD9F9-C85F-42e4-8B56-3D98616D98E7}");
-tocTab[tocTab.length] = new Array("0.13.2.5:3", "", "SampleService: SampleService", "EARoot/EA13/EA2/EA5/EA5371.htm", "112.png", "E11001", "E10998", "", "ProvidedInterface0","{CEFA1221-924D-43f8-B531-BFDDC916B8FB}");
-tocTab[tocTab.length] = new Array("0.13.2.5.1", "1", "«XSDschema» Types", "EARoot/EA13/EA2/EA5/EA1/EA5374.htm", "4.png", "", "", "{39D4AD0C-C698-47ff-9884-3715F2CE0E44}", "Package");
-tocTab[tocTab.length] = new Array("0.13.2.5.2", "1", "Messages", "EARoot/EA13/EA2/EA5/EA2/EA5379.htm", "4.png", "", "", "{9980BC6A-D344-438d-96A4-65C5F36FB13F}", "Package");
-tocTab[tocTab.length] = new Array("0.13.2.5.3", "1", "PortTypes", "EARoot/EA13/EA2/EA5/EA3/EA5385.htm", "4.png", "", "", "{1E4C33AE-2B07-4402-B8BA-6F2E4E68E440}", "Package");
-tocTab[tocTab.length] = new Array("0.13.2.5.4", "1", "Bindings", "EARoot/EA13/EA2/EA5/EA4/EA5391.htm", "4.png", "", "", "{2F57837A-C747-4e19-9890-6F3CFA9B1D1D}", "Package");
-tocTab[tocTab.length] = new Array("0.13.2.5.5", "1", "Services", "EARoot/EA13/EA2/EA5/EA5/EA5397.htm", "4.png", "", "", "{9196DAFD-C4F4-49af-9708-C89EAF275EBF}", "Package");

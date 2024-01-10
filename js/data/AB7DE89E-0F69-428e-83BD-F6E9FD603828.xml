@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.14.1.3:1", "", "xmlGeometries", "EARoot/EA14/EA1/EA3/EA5911.htm", "175.png", "4234", "0", "", "Logical diagram0","{B142C9B9-FE1B-4f88-B8DD-B2EC79EEE3FD}");
-tocTab[tocTab.length] = new Array("0.14.1.3:2", "", "«XSDcomplexType» GridCell", "EARoot/EA14/EA1/EA3/EA5914.htm", "5.png", "E14945", "0", "", "Class0","{FBF5DE6A-46D7-4907-8F84-1FCF274AD8EC}");
-tocTab[tocTab.length] = new Array("0.14.1.3:3", "", "«XSDcomplexType» GridCoordinate", "EARoot/EA14/EA1/EA3/EA5915.htm", "5.png", "E14947", "0", "", "Class0","{71542E44-90AB-4016-80FA-6CD1EEF4D9AC}");
-tocTab[tocTab.length] = new Array("0.14.1.3:4", "", "«XSDcomplexType» GridPoint", "EARoot/EA14/EA1/EA3/EA5916.htm", "5.png", "E14946", "0", "", "Class0","{6CE9A2F9-6505-4c89-9327-6DEDF2DAF493}");

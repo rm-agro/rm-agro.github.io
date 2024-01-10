@@ -1,8 +1,0 @@
-tocTab[tocTab.length] = new Array("0.10.5.3:1", "", "Grids", "EARoot/EA10/EA5/EA3/EA4632.htm", "175.png", "4232", "0", "", "Logical diagram0","{5CAC56FA-9CA7-4167-8EBD-5042E28E2C4E}");
-tocTab[tocTab.length] = new Array("0.10.5.3:2", "", "«XSDcomplexType» AbstractReferenceableGrid", "EARoot/EA10/EA5/EA3/EA4635.htm", "5.png", "E14926", "0", "", "Class0","{7C23C880-09A4-438a-A570-ED6888DC3EBE}");
-tocTab[tocTab.length] = new Array("0.10.5.3:3", "", "«XSDtopLevelElement» geometryValue", "EARoot/EA10/EA5/EA3/EA4636.htm", "5.png", "E14930", "0", "", "Class0","{6D65C305-24F9-4c54-B5DA-0373755AD32B}");
-tocTab[tocTab.length] = new Array("0.10.5.3:4", "", "«XSDchoice» ModelGroup106", "EARoot/EA10/EA5/EA3/EA4637.htm", "5.png", "E14929", "0", "", "Class0","{98B4189E-6733-4f20-8F35-AD31E4817791}");
-tocTab[tocTab.length] = new Array("0.10.5.3:5", "", "«XSDcomplexType» ParameterValue", "EARoot/EA10/EA5/EA3/EA4638.htm", "5.png", "E14928", "0", "", "Class0","{F3821650-F88D-472f-95C0-7153793A5823}");
-tocTab[tocTab.length] = new Array("0.10.5.3:6", "", "«XSDcomplexType» referenceableGridProperty", "EARoot/EA10/EA5/EA3/EA4639.htm", "5.png", "E14927", "0", "", "Class0","{AB1CA097-1EFC-43aa-BFAF-015CF1215593}");
-tocTab[tocTab.length] = new Array("0.10.5.3:7", "", "«XSDcomplexType» SimpleMultiPoint", "EARoot/EA10/EA5/EA3/EA4640.htm", "5.png", "E14932", "0", "", "Class0","{B6D0042A-707B-4b8f-8D84-91EEBB3C6BF7}");
-tocTab[tocTab.length] = new Array("0.10.5.3:8", "", "«XSDtopLevelElement» vectorValue", "EARoot/EA10/EA5/EA3/EA4641.htm", "5.png", "E14931", "0", "", "Class0","{E9304CDB-800B-433d-8737-2EF3B63A31ED}");

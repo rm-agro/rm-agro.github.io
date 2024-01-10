@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.10.5.1", "1", "«XSDschema» Coverage", "EARoot/EA10/EA5/EA1/EA4613.htm", "4.png", "", "", "{95D7E9F3-3D9A-4d67-906D-0C9C9887D2C9}", "Package");
-tocTab[tocTab.length] = new Array("0.10.5.2", "1", "«XSDschema» GmlcovAll", "EARoot/EA10/EA5/EA2/EA4631.htm", "4.png", "", "", "{B31A67B2-ABA8-4818-B08F-DA5D66580660}", "Package");
-tocTab[tocTab.length] = new Array("0.10.5.3", "1", "«XSDschema» Grids", "EARoot/EA10/EA5/EA3/EA4634.htm", "4.png", "", "", "{28DC8DA6-CED1-432d-BC37-6F8652E2A4B0}", "Package");

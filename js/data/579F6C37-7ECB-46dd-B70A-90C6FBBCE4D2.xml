@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.8.3.1", "1", "Base Models", "EARoot/EA8/EA3/EA1/EA1293.htm", "4.png", "", "", "{C7FA42BF-FE58-4e94-AA10-C4CAA3A351B6}", "Package");
-tocTab[tocTab.length] = new Array("0.8.3.2", "1", "«applicationSchema» Agricultural and Aquaculture Facilities Model", "EARoot/EA8/EA3/EA2/EA1299.htm", "4.png", "", "", "{6E97E2B5-7898-4cd8-8047-57639F0B3327}", "Package");
-tocTab[tocTab.length] = new Array("0.8.3.3", "1", "«applicationSchema» Agricultural and Aquaculture Facilities Extended Model", "EARoot/EA8/EA3/EA3/EA1314.htm", "4.png", "", "", "{99CDBB24-30B6-4e23-B224-0CA214843971}", "Package");
-tocTab[tocTab.length] = new Array("0.8.3.4", "1", "Use cases AF", "EARoot/EA8/EA3/EA4/EA1346.htm", "4.png", "", "", "{65F586A6-B1DD-4444-A701-43906F2CAA18}", "Package");

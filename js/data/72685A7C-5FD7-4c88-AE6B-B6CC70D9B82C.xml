@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.8.9.2.1.5:1", "", "Context Diagram: CV_HexagonalGridCoverage", "EARoot/EA8/EA9/EA2/EA1/EA5/EA2519.htm", "175.png", "3686", "0", "", "Logical diagram0","{A9BEC79C-DE0E-4179-9B55-27C343663CAE}");
-tocTab[tocTab.length] = new Array("0.8.9.2.1.5:2", "", "Context Diagram: CV_ValueHexagon", "EARoot/EA8/EA9/EA2/EA1/EA5/EA2521.htm", "175.png", "3687", "0", "", "Logical diagram0","{13A5C9A4-29F5-47d7-841F-0B00F3619FB3}");
-tocTab[tocTab.length] = new Array("0.8.9.2.1.5:3", "", "Fig 21 - CV_HexagonalGridCoverage", "EARoot/EA8/EA9/EA2/EA1/EA5/EA2523.htm", "175.png", "3685", "0", "", "Logical diagram0","{74E149DC-8761-4967-8EC6-F684A57A50EC}");
-tocTab[tocTab.length] = new Array("0.8.9.2.1.5:4", "", "Artifact1", "EARoot/EA8/EA9/EA2/EA1/EA5/EA2529.htm", "82.png", "E9015", "0", "", "Artifact0","{E582C2C9-31D3-4a93-BAF4-984B874BFB35}");
-tocTab[tocTab.length] = new Array("0.8.9.2.1.5:5", "", "«type» CV_HexagonalGridCoverage", "EARoot/EA8/EA9/EA2/EA1/EA5/EA2530.htm", "5.png", "E9014", "0", "", "Class0","{3A3AE88F-766F-40a5-AC44-1C0785461E9F}");
-tocTab[tocTab.length] = new Array("0.8.9.2.1.5:6", "", "«type» CV_ValueHexagon", "EARoot/EA8/EA9/EA2/EA1/EA5/EA2531.htm", "5.png", "E9010", "0", "", "Class0","{76786B4B-39FD-4849-8EF8-CB5138C3D027}");

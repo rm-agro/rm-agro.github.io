@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.13.2.9.2:1", "", "Messages", "EARoot/EA13/EA2/EA9/EA2/EA5538.htm", "175.png", "3844", "0", "", "Logical diagram0","{AE95B2B3-B742-4573-A1D6-3D0AEE45EB2E}");
-tocTab[tocTab.length] = new Array("0.13.2.9.2:2", "", "«WSDLmessage» SampleInput", "EARoot/EA13/EA2/EA9/EA2/EA5542.htm", "5.png", "E10724", "0", "", "Class0","{054DC6CC-D58F-47f6-A1DC-8C003E7E67FC}");
-tocTab[tocTab.length] = new Array("0.13.2.9.2:3", "", "«WSDLmessage» SampleOutput", "EARoot/EA13/EA2/EA9/EA2/EA5543.htm", "5.png", "E10723", "0", "", "Class0","{30951DEC-D8BA-4c50-A438-26E85FFFE0E2}");

@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.9.1", "1", "«XSDschema» AgroXML", "EARoot/EA9/EA1/EA2567.htm", "4.png", "", "", "{236C5A77-AF6D-4e07-A7C4-B12233567457}", "Package");
-tocTab[tocTab.length] = new Array("0.9.2", "1", "«XSDschema» EDI-Crop-CropRecording_v4_0", "EARoot/EA9/EA2/EA3035.htm", "4.png", "", "", "{1A6AA6F8-45E1-44f5-9275-1C82FA997D43}", "Package");
-tocTab[tocTab.length] = new Array("0.9.3", "1", "Frugicom", "EARoot/EA9/EA3/EA3078.htm", "4.png", "", "", "{FB3F33D8-12B6-434e-87FF-70C84975EFAD}", "Package");
-tocTab[tocTab.length] = new Array("0.9.4", "1", "«XSDschema» ISO11783_TaskFile_20050104", "EARoot/EA9/EA4/EA3122.htm", "4.png", "", "", "{FCCDA806-A0F7-4109-8299-9C9DFA2E828D}", "Package");
-tocTab[tocTab.length] = new Array("0.9.5", "1", "«XSDschema» YggModel", "EARoot/EA9/EA5/EA3356.htm", "4.png", "", "", "{88158E28-A0C0-4d1d-9C1E-A0AB31CC9201}", "Package");
-tocTab[tocTab.length] = new Array("0.9.6", "1", "«application schema» eLAB Report, v 5 Nov 2013", "EARoot/EA9/EA6/EA3390.htm", "4.png", "", "", "{FBE1F2D2-998E-48e5-A6B3-A6CF1300C996}", "Package");
-tocTab[tocTab.length] = new Array("0.9.7", "1", "«XSDschema» ISO11783", "EARoot/EA9/EA7/EA3455.htm", "4.png", "", "", "{DB0A8D38-ADEC-4d83-BC0D-82A5240DF61B}", "Package");

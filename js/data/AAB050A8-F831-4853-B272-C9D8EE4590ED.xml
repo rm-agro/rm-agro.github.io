@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.5.1.3.1.1:1", "", "Enumerations", "EARoot/EA5/EA1/EA3/EA1/EA1/EA873.htm", "175.png", "145", "0", "", "Logical diagram0","{91342D67-4C18-46f5-8334-57DD915A0099}");
-tocTab[tocTab.length] = new Array("0.5.1.3.1.1:2", "", "«enumeration» CropProductionSequenceEnumeration", "EARoot/EA5/EA1/EA3/EA1/EA1/EA876.htm", "5.png", "E1340", "0", "", "Class0","{B3BF8A4D-5849-4952-A747-0BEFDFE41072}");
-tocTab[tocTab.length] = new Array("0.5.1.3.1.1:3", "", "«enumeration» RegulatorySoilTypeCodeEnumeration", "EARoot/EA5/EA1/EA3/EA1/EA1/EA877.htm", "5.png", "E1342", "0", "", "Class0","{FE08F7EC-10B8-4a37-ADD1-7D32D536C903}");

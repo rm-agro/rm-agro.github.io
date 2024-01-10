@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.12.1", "1", "Mapping drmAgro ADAPT", "EARoot/EA12/EA1/EA4902.htm", "4.png", "", "", "{EE4D470A-FF05-4e9b-B573-13036077D512}", "Package");
-tocTab[tocTab.length] = new Array("0.12.2", "1", "Mapping drmAgro eLab", "EARoot/EA12/EA2/EA5102.htm", "4.png", "", "", "{A7F93045-A345-4cc5-BF51-A80D16A7BD19}", "Package");
-tocTab[tocTab.length] = new Array("0.12.3", "1", "Mapping drmCrop Frugicom", "EARoot/EA12/EA3/EA5107.htm", "4.png", "", "", "{F0A8E4D9-3716-45b1-B425-620C1A091E6D}", "Package");
-tocTab[tocTab.length] = new Array("0.12.4", "1", "Mapping drmCrop Geometries on ISO19107 and GML", "EARoot/EA12/EA4/EA5111.htm", "4.png", "", "", "{31BA144F-B7D8-4d0b-ABEE-907FB4025984}", "Package");
-tocTab[tocTab.length] = new Array("0.12.5", "1", "Mapping drmCrop on AgroXML", "EARoot/EA12/EA5/EA5119.htm", "4.png", "", "", "{FE58A1B6-3D29-4bef-A5AF-2E0CF6014725}", "Package");
-tocTab[tocTab.length] = new Array("0.12.6", "1", "Mapping drmCrop on EDI-Crop4.0", "EARoot/EA12/EA6/EA5123.htm", "4.png", "", "", "{F8921FBA-E50D-4921-BBCF-96A3A0CEAE79}", "Package");
-tocTab[tocTab.length] = new Array("0.12.7", "1", "Mapping drmCrop on ISO11783", "EARoot/EA12/EA7/EA5129.htm", "4.png", "", "", "{9AED1909-5739-4831-9E89-69D7AF8AAD33}", "Package");

@@ -1,9 +1,0 @@
-tocTab[tocTab.length] = new Array("0.8.1", "1", "DataDictionaryPlantProtectionProduct", "EARoot/EA8/EA1/EA1245.htm", "4.png", "", "", "{E7BFA82C-E914-4e6a-A92D-9EDD6D967CA0}", "Package");
-tocTab[tocTab.length] = new Array("0.8.2", "1", "Fertilizers", "EARoot/EA8/EA2/EA1258.htm", "4.png", "", "", "{581F418C-59A6-4fc7-B1B7-BC665BC4A4ED}", "Package");
-tocTab[tocTab.length] = new Array("0.8.3", "1", "Inspire - Agricultural and Aquaculture Facilities", "EARoot/EA8/EA3/EA1286.htm", "4.png", "", "", "{579F6C37-7ECB-46dd-B70A-90C6FBBCE4D2}", "Package");
-tocTab[tocTab.length] = new Array("0.8.4", "1", "ISO 19130 (2010) Sensor Data", "EARoot/EA8/EA4/EA1414.htm", "4.png", "", "", "{E65B7D99-D6FF-44df-809F-6CB7FB9C0E90}", "Package");
-tocTab[tocTab.length] = new Array("0.8.5", "1", "Left overs of EDI-TeeltPlusPlus", "EARoot/EA8/EA5/EA1543.htm", "4.png", "", "", "{E758E662-7889-405d-9320-9B2A246D512E}", "Package");
-tocTab[tocTab.length] = new Array("0.8.6", "1", "ISO 00639 Language Codes", "EARoot/EA8/EA6/EA1580.htm", "4.png", "", "", "{717DD03D-848B-40ae-A76B-71AB0B980A9D}", "Package");
-tocTab[tocTab.length] = new Array("0.8.7", "1", "ISO 19107:2003 Spatial Schema", "EARoot/EA8/EA7/EA1596.htm", "4.png", "", "", "{BBEF980E-D59E-469d-9164-7A94E1F503C7}", "Package");
-tocTab[tocTab.length] = new Array("0.8.8", "1", "ISO 19111 - ReferencingByCoordinates", "EARoot/EA8/EA8/EA1959.htm", "4.png", "", "", "{127686BF-27E8-4121-B74E-66A9BFC5F845}", "Package");
-tocTab[tocTab.length] = new Array("0.8.9", "1", "ISO 19123 Coverage geometry and functions", "EARoot/EA8/EA9/EA2212.htm", "4.png", "", "", "{5C289085-E4BF-4dd5-A403-83D66666295A}", "Package");

@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.13.2.3.3:1", "", "PortTypes", "EARoot/EA13/EA2/EA3/EA3/EA5300.htm", "175.png", "3913", "0", "", "Logical diagram0","{22BD6101-4D51-4bba-9A92-96D3AB2813C1}");
-tocTab[tocTab.length] = new Array("0.13.2.3.3:2", "", "«WSDLportType» SamplePortTypeHTTP", "EARoot/EA13/EA2/EA3/EA3/EA5304.htm", "8.png", "E11483", "0", "", "Interface0","{2173E2C0-2BB7-4f6e-8681-96EDD9308B27}");
-tocTab[tocTab.length] = new Array("0.13.2.3.3:3", "", "«WSDLportType» SamplePortTypeSOAP", "EARoot/EA13/EA2/EA3/EA3/EA5305.htm", "8.png", "E11482", "0", "", "Interface0","{C6F114D1-EA77-46fa-B512-C642B028F56F}");

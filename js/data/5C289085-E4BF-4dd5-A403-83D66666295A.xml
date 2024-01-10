@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.8.9:1", "", "ISO 19123 Schema for coverage geometry and functions", "EARoot/EA8/EA9/EA2210.htm", "175.png", "3594", "0", "", "Logical diagram0","{E473124B-43F1-42d8-B5B0-EFC2A7D4751E}");
-tocTab[tocTab.length] = new Array("0.8.9.1", "1", "ISO 19123-NWIP", "EARoot/EA8/EA9/EA1/EA2217.htm", "4.png", "", "", "{AB22F5E2-AC6E-438e-9299-DF5B3E1665D7}", "Package");
-tocTab[tocTab.length] = new Array("0.8.9.2", "1", "ISO 19123:2005 Coverages", "EARoot/EA8/EA9/EA2/EA2314.htm", "4.png", "", "", "{8A2239AB-3186-4541-AC13-D104D87BDDC4}", "Package");

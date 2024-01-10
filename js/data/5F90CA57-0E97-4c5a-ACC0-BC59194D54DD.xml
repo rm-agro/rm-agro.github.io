@@ -1,8 +1,0 @@
-tocTab[tocTab.length] = new Array("0.13.2.12:1", "", "Overview_WholeFieldPhytophthoraAdvice", "EARoot/EA13/EA2/EA12/EA5639.htm", "175.png", "3752", "0", "", "Logical diagram0","{8490EC36-063B-49bb-A239-50FF85BE034D}");
-tocTab[tocTab.length] = new Array("0.13.2.12:2", "", "«WSDL» SampleWSDLFile", "EARoot/EA13/EA2/EA12/EA5643.htm", "10.png", "E9538", "0", "", "Component0","{FAD3A1DA-CACF-4705-B9F6-DE4A0B07B139}");
-tocTab[tocTab.length] = new Array("0.13.2.12:3", "", "WholeFieldPhytophthoraAdviceService: WholeFieldPhytophthoraAdviceService", "EARoot/EA13/EA2/EA12/EA5650.htm", "112.png", "E9541", "E9538", "", "ProvidedInterface0","{5A43A9CD-C543-4b08-A7FC-E7B20B56C3FC}");
-tocTab[tocTab.length] = new Array("0.13.2.12.1", "1", "«XSDschema» WFPA_MessageTypes", "EARoot/EA13/EA2/EA12/EA1/EA5653.htm", "4.png", "", "", "{427EF789-4534-47b7-AC40-7489D42C3D3F}", "Package");
-tocTab[tocTab.length] = new Array("0.13.2.12.2", "1", "Messages", "EARoot/EA13/EA2/EA12/EA2/EA5659.htm", "4.png", "", "", "{2255EBC4-2451-4a31-A8D8-A87F63F76178}", "Package");
-tocTab[tocTab.length] = new Array("0.13.2.12.3", "1", "PortTypes", "EARoot/EA13/EA2/EA12/EA3/EA5665.htm", "4.png", "", "", "{D1E66E62-F244-40a8-BA83-4CED44CC201A}", "Package");
-tocTab[tocTab.length] = new Array("0.13.2.12.4", "1", "Bindings", "EARoot/EA13/EA2/EA12/EA4/EA5670.htm", "4.png", "", "", "{21A71863-78B2-4f65-A099-C32B05D2A1DC}", "Package");
-tocTab[tocTab.length] = new Array("0.13.2.12.5", "1", "Services", "EARoot/EA13/EA2/EA12/EA5/EA5675.htm", "4.png", "", "", "{FD7B823F-6D5C-478e-9C8C-0B65E027A636}", "Package");

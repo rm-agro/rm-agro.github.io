@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.8.9.1.3:1", "", "Range Record", "EARoot/EA8/EA9/EA1/EA3/EA2243.htm", "175.png", "3600", "0", "", "Logical diagram0","{2B212A96-D3F2-42a7-A144-761652908F61}");
-tocTab[tocTab.length] = new Array("0.8.9.1.3:2", "", "Range Record Type", "EARoot/EA8/EA9/EA1/EA3/EA2245.htm", "175.png", "3599", "0", "", "Logical diagram0","{E7F0DF8F-FE19-461f-9D75-DAF1A9CC5731}");
-tocTab[tocTab.length] = new Array("0.8.9.1.3:3", "", "«interface» CV_RangeRecordType", "EARoot/EA8/EA9/EA1/EA3/EA2248.htm", "5.png", "E8918", "0", "", "Class0","{40A173E5-888E-449f-B725-029252C96058}");
-tocTab[tocTab.length] = new Array("0.8.9.1.3:4", "", "«interface» CV_RangeFieldType", "EARoot/EA8/EA9/EA1/EA3/EA2249.htm", "5.png", "E8920", "0", "", "Class0","{50F1092F-D1BB-41f3-8D21-746473AF05C2}");
-tocTab[tocTab.length] = new Array("0.8.9.1.3:5", "", "«interface» CV_ArrayField", "EARoot/EA8/EA9/EA1/EA3/EA2250.htm", "5.png", "E8921", "0", "", "Class0","{32715C69-DBD1-474e-80EE-78756C84D946}");
-tocTab[tocTab.length] = new Array("0.8.9.1.3:6", "", "«interface» CV_RangeAxisType", "EARoot/EA8/EA9/EA1/EA3/EA2251.htm", "5.png", "E8919", "0", "", "Class0","{728760E7-ED9C-44a8-AE1D-0A26CB0DFC5A}");

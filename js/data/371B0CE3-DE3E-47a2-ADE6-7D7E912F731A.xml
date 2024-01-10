@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.8.3.4.1:1", "", "Actors AF", "EARoot/EA8/EA3/EA4/EA1/EA1349.htm", "180.png", "4012", "0", "", "Use Case diagram0","{D86E5847-412D-4cc2-9A84-9FCA8D240CD2}");
-tocTab[tocTab.length] = new Array("0.8.3.4.1:2", "", "User", "EARoot/EA8/EA3/EA4/EA1/EA1352.htm", "6.png", "E12043", "0", "", "Actor0","{47ED1A75-4C74-48ab-BA42-50E543B8AB46}");
-tocTab[tocTab.length] = new Array("0.8.3.4.1:3", "", "Citizen", "EARoot/EA8/EA3/EA4/EA1/EA1353.htm", "6.png", "E12044", "0", "", "Actor0","{BD040A93-D374-43bf-A85C-1245545062CF}");
-tocTab[tocTab.length] = new Array("0.8.3.4.1:4", "", "Commercial sector", "EARoot/EA8/EA3/EA4/EA1/EA1354.htm", "6.png", "E12047", "0", "", "Actor0","{5E8CD1D4-5D11-4349-90B9-E33FDCBB09D4}");
-tocTab[tocTab.length] = new Array("0.8.3.4.1:5", "", "Public body", "EARoot/EA8/EA3/EA4/EA1/EA1355.htm", "6.png", "E12046", "0", "", "Actor0","{1C43A269-3703-4756-9073-ACFA65EBE4BC}");
-tocTab[tocTab.length] = new Array("0.8.3.4.1:6", "", "European Commission", "EARoot/EA8/EA3/EA4/EA1/EA1356.htm", "6.png", "E12045", "0", "", "Actor0","{8821E228-5715-430c-A486-77563FA6EBB1}");

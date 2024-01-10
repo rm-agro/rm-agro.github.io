@@ -1,9 +1,0 @@
-tocTab[tocTab.length] = new Array("0.10.4.18:1", "", "Measures", "EARoot/EA10/EA4/EA18/EA4383.htm", "175.png", "4220", "0", "", "Logical diagram0","{F46131DC-343A-4099-A587-700E4B5CE11E}");
-tocTab[tocTab.length] = new Array("0.10.4.18:2", "", "«XSDcomplexType» angle", "EARoot/EA10/EA4/EA18/EA4386.htm", "5.png", "E14773", "0", "", "Class0","{8248800E-D351-4e26-B165-9CCAEA1C6D73}");
-tocTab[tocTab.length] = new Array("0.10.4.18:3", "", "«XSDcomplexType» AreaType", "EARoot/EA10/EA4/EA18/EA4387.htm", "5.png", "E14770", "0", "", "Class0","{E52E8C78-7EA8-4465-84A4-DC4133C983B6}");
-tocTab[tocTab.length] = new Array("0.10.4.18:4", "", "«XSDcomplexType» GridLengthType", "EARoot/EA10/EA4/EA18/EA4388.htm", "5.png", "E14769", "0", "", "Class0","{8621F481-DD54-4710-AFEF-B4B82AE59F83}");
-tocTab[tocTab.length] = new Array("0.10.4.18:5", "", "«XSDcomplexType» LengthType", "EARoot/EA10/EA4/EA18/EA4389.htm", "5.png", "E14766", "0", "", "Class0","{6CC07B5F-C8A5-402d-987D-184106328124}");
-tocTab[tocTab.length] = new Array("0.10.4.18:6", "", "«XSDcomplexType» ScaleType", "EARoot/EA10/EA4/EA18/EA4390.htm", "5.png", "E14767", "0", "", "Class0","{9B99A51B-EF3E-4209-B0D6-E2EFA5E1F61E}");
-tocTab[tocTab.length] = new Array("0.10.4.18:7", "", "«XSDcomplexType» SpeedType", "EARoot/EA10/EA4/EA18/EA4391.htm", "5.png", "E14772", "0", "", "Class0","{0C768783-5317-4827-A3AE-AB9E1A12EF1C}");
-tocTab[tocTab.length] = new Array("0.10.4.18:8", "", "«XSDcomplexType» TimeType", "EARoot/EA10/EA4/EA18/EA4392.htm", "5.png", "E14768", "0", "", "Class0","{3B02A39E-A0E1-4088-9B3E-A07FE82A5B7A}");
-tocTab[tocTab.length] = new Array("0.10.4.18:9", "", "«XSDcomplexType» VolumeType", "EARoot/EA10/EA4/EA18/EA4393.htm", "5.png", "E14771", "0", "", "Class0","{60232481-EA50-43e2-BAD2-9A1610D5AFB7}");

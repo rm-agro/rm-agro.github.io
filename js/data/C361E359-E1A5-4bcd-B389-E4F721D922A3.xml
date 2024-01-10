@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.5.1.2.1:1", "", "Cattle", "EARoot/EA5/EA1/EA2/EA1/EA363.htm", "175.png", "4128", "0", "", "Logical diagram0","{1065E441-7364-4644-8C99-39CB6F6ECBFB}");
-tocTab[tocTab.length] = new Array("0.5.1.2.1:2", "", "Cattle", "EARoot/EA5/EA1/EA2/EA1/EA367.htm", "5.png", "E13478", "0", "", "Class0","{5ABC09BE-83E4-4918-B240-FCF5A623468E}");
-tocTab[tocTab.length] = new Array("0.5.1.2.1:3", "", "GrazingZone", "EARoot/EA5/EA1/EA2/EA1/EA368.htm", "5.png", "E13497", "0", "", "Class0","{F080185C-70AB-494a-8584-48E8E8CCF35C}");
-tocTab[tocTab.length] = new Array("0.5.1.2.1:4", "", "Herd", "EARoot/EA5/EA1/EA2/EA1/EA369.htm", "5.png", "E13479", "0", "", "Class0","{D70BCF1F-79DF-497b-8C59-B63FE5FD0B48}");

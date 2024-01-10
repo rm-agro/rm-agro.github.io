@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.8.9.1:1", "", "ISO 19123", "EARoot/EA8/EA9/EA1/EA2215.htm", "176.png", "3595", "0", "", "Package diagram0","{9D47EFF8-9D10-4387-9C7D-2E27BEF3D441}");
-tocTab[tocTab.length] = new Array("0.8.9.1.1", "1", "Coverage Core", "EARoot/EA8/EA9/EA1/EA1/EA2226.htm", "4.png", "", "", "{1A7E90A9-7BAD-47e9-88E7-C350CE6B6F24}", "Package");
-tocTab[tocTab.length] = new Array("0.8.9.1.2", "1", "Domain Description", "EARoot/EA8/EA9/EA1/EA2/EA2234.htm", "4.png", "", "", "{E27BAE86-98A4-4e3e-83C0-AC3A86E186C0}", "Package");
-tocTab[tocTab.length] = new Array("0.8.9.1.3", "1", "Range Description", "EARoot/EA8/EA9/EA1/EA3/EA2247.htm", "4.png", "", "", "{97A45E3E-34DC-49ce-B42F-D6AE703C774B}", "Package");
-tocTab[tocTab.length] = new Array("0.8.9.1.4", "1", "Coverage Data", "EARoot/EA8/EA9/EA1/EA4/EA2260.htm", "4.png", "", "", "{76977308-69C3-4d19-8D93-7D92EB819F19}", "Package");
-tocTab[tocTab.length] = new Array("0.8.9.1.5", "1", "Discrete Coverage", "EARoot/EA8/EA9/EA1/EA5/EA2283.htm", "4.png", "", "", "{87AA3352-1F35-4deb-B234-8C093C2A6180}", "Package");
-tocTab[tocTab.length] = new Array("0.8.9.1.6", "1", "Continuous Coverage", "EARoot/EA8/EA9/EA1/EA6/EA2297.htm", "4.png", "", "", "{0438188D-80E3-4509-9361-67E101E4B35D}", "Package");

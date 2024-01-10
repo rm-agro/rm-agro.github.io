@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.13.1", "1", "WSDL_Advice", "EARoot/EA13/EA1/EA5140.htm", "4.png", "", "", "{9F6A977A-0BAC-4eb7-93CE-FF47C0B2AE4D}", "Package");
-tocTab[tocTab.length] = new Array("0.13.2", "1", "WSDLs Crop Protection Information Sharing", "EARoot/EA13/EA2/EA5182.htm", "4.png", "", "", "{715116E3-5A46-4bd4-B789-23AB2FEC7931}", "Package");
-tocTab[tocTab.length] = new Array("0.13.3", "1", "WSDL_Contractor", "EARoot/EA13/EA3/EA5754.htm", "4.png", "", "", "{347C4E97-2D3A-4409-A4E2-F037599762AE}", "Package");

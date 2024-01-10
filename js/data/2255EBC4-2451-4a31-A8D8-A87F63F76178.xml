@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.13.2.12.2:1", "", "Messages", "EARoot/EA13/EA2/EA12/EA2/EA5657.htm", "175.png", "3754", "0", "", "Logical diagram0","{0370E5A9-A251-4abd-B934-71B1D98FD40D}");
-tocTab[tocTab.length] = new Array("0.13.2.12.2:2", "", "«WSDLmessage» phytophthoraAdviceRequestMsg", "EARoot/EA13/EA2/EA12/EA2/EA5661.htm", "5.png", "E9649", "0", "", "Class0","{E6F9EBF8-46C8-4c4c-A67C-511BE3A9B1A3}");
-tocTab[tocTab.length] = new Array("0.13.2.12.2:3", "", "«WSDLmessage» phytophthoraAdviceResponseMsg", "EARoot/EA13/EA2/EA12/EA2/EA5662.htm", "5.png", "E9650", "0", "", "Class0","{C51DB4A9-204D-4913-90F9-770F44BE1374}");

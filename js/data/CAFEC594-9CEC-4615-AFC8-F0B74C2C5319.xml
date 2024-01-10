@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.13.2.2.1:1", "", "Types", "EARoot/EA13/EA2/EA2/EA1/EA5248.htm", "175.png", "3854", "0", "", "Logical diagram0","{26F9DB85-CDFE-4f06-82ED-EBFB13915E4E}");
-tocTab[tocTab.length] = new Array("0.13.2.2.1:2", "", "«XSDcomplexType» ActivityFieldLocationRequest", "EARoot/EA13/EA2/EA2/EA1/EA5251.htm", "5.png", "E10752", "0", "", "Class0","{D6A6D01D-568F-421b-998A-9502BF262DB7}");
-tocTab[tocTab.length] = new Array("0.13.2.2.1:3", "", "«XSDcomplexType» ActivityFieldLocationResponse", "EARoot/EA13/EA2/EA2/EA1/EA5252.htm", "5.png", "E10750", "0", "", "Class0","{099BAE66-A9C2-47fa-87F9-FFED26A69805}");

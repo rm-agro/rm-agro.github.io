@@ -1,2 +1,0 @@
-tocTab[tocTab.length] = new Array("0.8.8.1", "1", "ISO 19111 Referencing by Coordinates", "EARoot/EA8/EA8/EA1/EA1992.htm", "4.png", "", "", "{FE9E524D-63E6-460a-8412-49FF8617A6CE}", "Package");
-tocTab[tocTab.length] = new Array("0.8.8.2", "1", "ISO 19111-2: 2009 Extension for parametric values", "EARoot/EA8/EA8/EA2/EA2206.htm", "4.png", "", "", "{757F59D8-AC06-4b03-8B96-75DFA4B26640}", "Package");

@@ -1,9 +1,0 @@
-tocTab[tocTab.length] = new Array("0.15.1:1", "", "Services", "EARoot/EA15/EA1/EA5968.htm", "175.png", "66", "0", "", "Logical diagram0","{35C25748-AC63-4d1b-A31E-D4AA3D9522B4}");
-tocTab[tocTab.length] = new Array("0.15.1:2", "", "ContractorServer", "EARoot/EA15/EA1/EA5971.htm", "5.png", "E1196", "0", "", "Class0","{2E2D0803-C6F8-4b03-B7C0-CB47A53ECFD9}");
-tocTab[tocTab.length] = new Array("0.15.1:3", "", "DeskTopClient", "EARoot/EA15/EA1/EA5972.htm", "5.png", "E1206", "0", "", "Class0","{E23B9AE4-FBEE-48bc-A3DC-2513966D3858}");
-tocTab[tocTab.length] = new Array("0.15.1:4", "", "FarmServer", "EARoot/EA15/EA1/EA5973.htm", "5.png", "E1197", "0", "", "Class0","{8C76092C-0EEB-4615-B19C-54E6B96A9E62}");
-tocTab[tocTab.length] = new Array("0.15.1:5", "", "ImplementSynchronisationController", "EARoot/EA15/EA1/EA5974.htm", "5.png", "E1199", "0", "", "Class0","{5858BB86-603F-496a-8366-1108872222A2}");
-tocTab[tocTab.length] = new Array("0.15.1:6", "", "JobController", "EARoot/EA15/EA1/EA5975.htm", "5.png", "E1205", "0", "", "Class0","{A3855A20-FB62-40ff-99AA-506CF1A3BADF}");
-tocTab[tocTab.length] = new Array("0.15.1:7", "", "MobileDataLogger", "EARoot/EA15/EA1/EA5976.htm", "5.png", "E1200", "0", "", "Class0","{302BD6F4-8D9F-44c9-9CDB-7F3D4105A8C1}");
-tocTab[tocTab.length] = new Array("0.15.1:8", "", "TaskController", "EARoot/EA15/EA1/EA5977.htm", "5.png", "E1203", "0", "", "Class0","{BE58352E-65EE-4cab-A29C-03F320D430A4}");
-tocTab[tocTab.length] = new Array("0.15.1:9", "", "UniversalTerminal", "EARoot/EA15/EA1/EA5978.htm", "5.png", "E1204", "0", "", "Class0","{8DCE7048-0E5F-4e2f-A1BF-5E4B02C6DCD3}");

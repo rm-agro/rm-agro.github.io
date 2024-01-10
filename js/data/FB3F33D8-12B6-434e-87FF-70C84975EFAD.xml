@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.9.3.1", "1", "«XSDschema» AanvraagTeelthistorie_lev001", "EARoot/EA9/EA3/EA1/EA3084.htm", "4.png", "", "", "{8DFAD4E0-5185-471e-8287-80AFAEC74BB9}", "Package");
-tocTab[tocTab.length] = new Array("0.9.3.2", "1", "«XSDschema» Teelthistorie_lev001", "EARoot/EA9/EA3/EA2/EA3089.htm", "4.png", "", "", "{ECC0CD1D-6B45-4f89-8328-7F7FE7FEF55B}", "Package");
-tocTab[tocTab.length] = new Array("0.9.3.3", "1", "«XSDschema» Teeltinformatie_lev001", "EARoot/EA9/EA3/EA3/EA3107.htm", "4.png", "", "", "{EF7875C4-3397-4f24-9914-BDEB953F0ABF}", "Package");

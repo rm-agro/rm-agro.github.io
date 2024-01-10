@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.5.1.4:1", "", "GreenHouse", "EARoot/EA5/EA1/EA4/EA901.htm", "175.png", "4052", "0", "", "Logical diagram0","{21970F0D-6F7E-4423-9A87-946CBE3C9C29}");
-tocTab[tocTab.length] = new Array("0.5.1.4:2", "", "CropPlatform", "EARoot/EA5/EA1/EA4/EA904.htm", "5.png", "E12376", "0", "", "Class0","{D55AC444-5EC2-4124-813A-FC8D83163E0C}");
-tocTab[tocTab.length] = new Array("0.5.1.4:3", "", "Greenhouse", "EARoot/EA5/EA1/EA4/EA905.htm", "5.png", "E11904", "0", "", "Class0","{CC655BFE-C7C3-4e90-A67F-0D3A06972D7F}");
-tocTab[tocTab.length] = new Array("0.5.1.4:4", "", "GreenHouseComplex", "EARoot/EA5/EA1/EA4/EA906.htm", "5.png", "E11903", "0", "", "Class0","{C5A8F4CF-524B-44c0-859A-84D2304A3F38}");
-tocTab[tocTab.length] = new Array("0.5.1.4:5", "", "GreenhouseFloor", "EARoot/EA5/EA1/EA4/EA907.htm", "5.png", "E12841", "0", "", "Class0","{1A6D991F-5083-4e00-A9C8-85BF40ABFECA}");
-tocTab[tocTab.length] = new Array("0.5.1.4:6", "", "Platform", "EARoot/EA5/EA1/EA4/EA908.htm", "5.png", "E12375", "0", "", "Class0","{3EE24711-BFC9-453c-97E6-F18202D14231}");
-tocTab[tocTab.length] = new Array("0.5.1.4:7", "", "Position", "EARoot/EA5/EA1/EA4/EA909.htm", "5.png", "E12378", "0", "", "Class0","{1DEA0DC4-06B3-4eb5-9D1C-1E374C3BC475}");

@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.15.2.2:1", "", "Devices", "EARoot/EA15/EA2/EA2/EA5988.htm", "179.png", "3729", "0", "", "Deployment diagram0","{29C41B54-4186-4d45-988F-F80B98457A5C}");
-tocTab[tocTab.length] = new Array("0.15.2.2:2", "", "ImplementECU", "EARoot/EA15/EA2/EA2/EA5991.htm", "191.png", "E9438", "0", "", "Device0","{282E2F79-415C-4bb0-927D-17CD40A8B9C8}");
-tocTab[tocTab.length] = new Array("0.15.2.2:3", "", "MobileDevice", "EARoot/EA15/EA2/EA2/EA5992.htm", "191.png", "E9439", "0", "", "Device0","{0BEAC99C-9E2C-4124-9188-8DA60A757B4C}");

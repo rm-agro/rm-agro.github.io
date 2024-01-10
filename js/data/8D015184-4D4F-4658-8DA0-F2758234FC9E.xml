@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.8.8.1.5:1", "", "Context Diagram: IO_IdentifiedObject", "EARoot/EA8/EA8/EA1/EA5/EA2182.htm", "175.png", "3575", "0", "", "Logical diagram0","{31A888F1-4A06-4c0b-A6C8-A9A216251A8B}");
-tocTab[tocTab.length] = new Array("0.8.8.1.5:2", "", "Context Diagram: IO_IdentifiedObjectBase", "EARoot/EA8/EA8/EA1/EA5/EA2184.htm", "175.png", "3576", "0", "", "Logical diagram0","{49C7B54E-7A28-4083-9B5F-BE3D31971302}");
-tocTab[tocTab.length] = new Array("0.8.8.1.5:3", "", "Main", "EARoot/EA8/EA8/EA1/EA5/EA2186.htm", "175.png", "3574", "0", "", "Logical diagram0","{A6225B3D-FD06-4797-9E54-167788C54654}");
-tocTab[tocTab.length] = new Array("0.8.8.1.5:4", "", "«type» IO_IdentifiedObject", "EARoot/EA8/EA8/EA1/EA5/EA2190.htm", "5.png", "E8778", "0", "", "Class0","{87F2C7F7-337C-4de7-A4F8-CDAD7F7DD27B}");
-tocTab[tocTab.length] = new Array("0.8.8.1.5:5", "", "«type» IO_IdentifiedObjectBase", "EARoot/EA8/EA8/EA1/EA5/EA2191.htm", "5.png", "E8779", "0", "", "Class0","{38F632BD-10C7-4452-A1B4-D155B21C9003}");

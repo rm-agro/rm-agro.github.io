@@ -1,8 +1,0 @@
-tocTab[tocTab.length] = new Array("0.8.3.4.2:1", "", "Overview AF", "EARoot/EA8/EA3/EA4/EA2/EA1357.htm", "180.png", "4013", "0", "", "Use Case diagram0","{58673D50-2FB4-438f-A3C5-577D5836BF38}");
-tocTab[tocTab.length] = new Array("0.8.3.4.2.1", "1", "Declaration", "EARoot/EA8/EA3/EA4/EA2/EA1/EA1369.htm", "4.png", "", "", "{FDEDA567-BFEF-4e95-83C6-73C46610E277}", "Package");
-tocTab[tocTab.length] = new Array("0.8.3.4.2.2", "1", "Discovering", "EARoot/EA8/EA3/EA4/EA2/EA2/EA1377.htm", "4.png", "", "", "{28AC0A2B-C046-467f-ACDD-D214291231C6}", "Package");
-tocTab[tocTab.length] = new Array("0.8.3.4.2.3", "1", "Monitoring", "EARoot/EA8/EA3/EA4/EA2/EA3/EA1384.htm", "4.png", "", "", "{806D43DC-F7BA-455e-B482-449A65A6CE9B}", "Package");
-tocTab[tocTab.length] = new Array("0.8.3.4.2.4", "1", "Reporting", "EARoot/EA8/EA3/EA4/EA2/EA4/EA1388.htm", "4.png", "", "", "{B0A0F833-C242-4f64-A8DC-585EB2759106}", "Package");
-tocTab[tocTab.length] = new Array("0.8.3.4.2.5", "1", "Disaster management", "EARoot/EA8/EA3/EA4/EA2/EA5/EA1397.htm", "4.png", "", "", "{48241FC3-85ED-4e8a-8EE6-C120B1D118AF}", "Package");
-tocTab[tocTab.length] = new Array("0.8.3.4.2.6", "1", "Inspection and control, enforce", "EARoot/EA8/EA3/EA4/EA2/EA6/EA1404.htm", "4.png", "", "", "{80F64D6B-0558-47c4-BE9E-A57A9DD1096F}", "Package");
-tocTab[tocTab.length] = new Array("0.8.3.4.2.7", "1", "other themes invoked", "EARoot/EA8/EA3/EA4/EA2/EA7/EA1411.htm", "4.png", "", "", "{F128752E-9AD9-4e59-81A3-EC06C87AD85E}", "Package");
