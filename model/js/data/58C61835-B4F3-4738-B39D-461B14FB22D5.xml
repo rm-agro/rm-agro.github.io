@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.2.1:1", "", "Definition", "EARoot/EA2/EA1/EA74.htm", "175.png", "4126", "0", "", "Logical diagram0","{19AFAF4F-0BAA-4ee3-8A5F-192A37950C17}");
+tocTab[tocTab.length] = new Array("0.2.1:2", "", "«owlClass» OWLClass1", "EARoot/EA2/EA1/EA78.htm", "5.png", "E13462", "0", "", "Class0","{ECEC03AB-29C8-4f70-9E38-D1B89BC7DE57}");
+tocTab[tocTab.length] = new Array("0.2.1:3", "", "«owlClass» OWLClass2", "EARoot/EA2/EA1/EA79.htm", "5.png", "E13467", "0", "", "Class0","{5CDF0D78-A55A-4542-AD65-3B5874CE39F2}");
+tocTab[tocTab.length] = new Array("0.2.1:4", "", "«owlClass» OWLClass3", "EARoot/EA2/EA1/EA80.htm", "5.png", "E13464", "0", "", "Class0","{A9B4EE34-7390-4d10-B974-68641FBB064D}");
+tocTab[tocTab.length] = new Array("0.2.1:5", "", "«owlClass» OWLClass4", "EARoot/EA2/EA1/EA81.htm", "5.png", "E13465", "0", "", "Class0","{1DE1C63A-7089-4b18-A952-7D539961FB8C}");
+tocTab[tocTab.length] = new Array("0.2.1:6", "", "«objectProperty» property1", "EARoot/EA2/EA1/EA82.htm", "5.png", "E13466", "0", "", "Class0","{E861645F-89A1-4a73-B0D5-DEB9D9A89BBF}");
+tocTab[tocTab.length] = new Array("0.2.1:7", "", "«objectProperty» property2", "EARoot/EA2/EA1/EA83.htm", "5.png", "E13468", "0", "", "Class0","{1827BF25-A683-453e-A7A0-BD4191023C7B}");

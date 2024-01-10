@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.13.2.9.1:1", "", "Types", "EARoot/EA13/EA2/EA9/EA1/EA5533.htm", "175.png", "3843", "0", "", "Logical diagram0","{78527401-6CDB-48ba-AC05-4A7C0ECFE44F}");
+tocTab[tocTab.length] = new Array("0.13.2.9.1:2", "", "«XSDcomplexType» SensorDataRequest", "EARoot/EA13/EA2/EA9/EA1/EA5536.htm", "5.png", "E10721", "0", "", "Class0","{30D3EF27-4098-484c-BEC0-319DCBC76656}");
+tocTab[tocTab.length] = new Array("0.13.2.9.1:3", "", "«XSDcomplexType» SensorDataResponse", "EARoot/EA13/EA2/EA9/EA1/EA5537.htm", "5.png", "E10719", "0", "", "Class0","{CB742546-7B94-42a5-B192-3D7A2EF2F978}");

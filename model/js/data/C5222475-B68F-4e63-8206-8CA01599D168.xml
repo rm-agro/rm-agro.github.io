@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.13.2.4.3:1", "", "PortTypes", "EARoot/EA13/EA2/EA4/EA3/EA5346.htm", "175.png", "3761", "0", "", "Logical diagram0","{C3B4E29C-F42E-4566-81C1-535F818A5501}");
+tocTab[tocTab.length] = new Array("0.13.2.4.3:2", "", "«WSDLportType» InitialAndUpdatedCropFieldDataPortTypeSOAP", "EARoot/EA13/EA2/EA4/EA3/EA5349.htm", "8.png", "E9575", "0", "", "Interface0","{C5121BCF-D210-4a65-9325-1F0C04BF5E52}");

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.13.2.5.4:1", "", "Bindings", "EARoot/EA13/EA2/EA5/EA4/EA5389.htm", "175.png", "3890", "0", "", "Logical diagram0","{ACD0623A-A92F-483f-A14B-A8E2A0A6AC7E}");
+tocTab[tocTab.length] = new Array("0.13.2.5.4:2", "", "«WSDLbinding» SampleBindingHTTP", "EARoot/EA13/EA2/EA5/EA4/EA5393.htm", "5.png", "E11014", "0", "", "Class0","{80727531-9908-4b36-8B4B-DABB7105391A}");
+tocTab[tocTab.length] = new Array("0.13.2.5.4:3", "", "«WSDLbinding» SampleBindingSOAP", "EARoot/EA13/EA2/EA5/EA4/EA5394.htm", "5.png", "E11015", "0", "", "Class0","{9D1F5B34-E141-4096-A391-9B608EABBF4A}");

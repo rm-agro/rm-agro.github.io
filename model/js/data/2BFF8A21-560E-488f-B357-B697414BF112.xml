@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.13.2.11.4:1", "", "Bindings", "EARoot/EA13/EA2/EA11/EA4/EA5630.htm", "175.png", "3750", "0", "", "Logical diagram0","{8317F357-06C6-469e-BB0B-0EF228C06E6F}");
+tocTab[tocTab.length] = new Array("0.13.2.11.4:2", "", "«WSDLbinding» WeatherScenarioBindingSOAP", "EARoot/EA13/EA2/EA11/EA4/EA5633.htm", "5.png", "E9531", "0", "", "Class0","{2A261403-E345-4c6b-AFDF-1A25F9C5BD94}");

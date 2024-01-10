@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.13.2.11.3:1", "", "PortTypes", "EARoot/EA13/EA2/EA11/EA3/EA5625.htm", "175.png", "3749", "0", "", "Logical diagram0","{62B07554-3E79-4a55-86EA-D1E6E5463DDE}");
+tocTab[tocTab.length] = new Array("0.13.2.11.3:2", "", "«WSDLportType» WeatherScenarioPortTypeSOAP", "EARoot/EA13/EA2/EA11/EA3/EA5629.htm", "8.png", "E9527", "0", "", "Interface0","{EB4E7DD2-68BF-4e83-A6A4-7C908CD6ADFD}");

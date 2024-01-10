@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.13.2.3.1:1", "", "Types", "EARoot/EA13/EA2/EA3/EA1/EA5288.htm", "175.png", "3911", "0", "", "Logical diagram0","{A7E06E15-ADBA-45f2-87E8-79AD7D767A5B}");
+tocTab[tocTab.length] = new Array("0.13.2.3.1:2", "", "«XSDcomplexType» BadWeatherWarningRequest", "EARoot/EA13/EA2/EA3/EA1/EA5291.htm", "5.png", "E11478", "0", "", "Class0","{8DB1CA9D-9CD5-4c49-AF0F-58DC1478651E}");
+tocTab[tocTab.length] = new Array("0.13.2.3.1:3", "", "«XSDcomplexType» BadWeatherWarningResponse", "EARoot/EA13/EA2/EA3/EA1/EA5292.htm", "5.png", "E11476", "0", "", "Class0","{A1A7A68A-8904-453e-A204-073E67FB3F6D}");

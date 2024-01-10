@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.13.3.1.5:1", "", "SampleService", "EARoot/EA13/EA3/EA1/EA5/EA5811.htm", "175.png", "4162", "0", "", "Logical diagram0","{F7FE558F-33EA-4eff-A8A6-6CE149DE4045}");
+tocTab[tocTab.length] = new Array("0.13.3.1.5:2", "", "«WSDLservice» SampleService", "EARoot/EA13/EA3/EA1/EA5/EA5815.htm", "8.png", "E13775", "0", "", "Interface0","{F6BCF216-7D70-453d-B619-3E25EEF5629A}");

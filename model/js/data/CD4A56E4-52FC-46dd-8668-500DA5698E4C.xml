@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.9.1.14:1", "", "Storage", "EARoot/EA9/EA1/EA14/EA2943.htm", "175.png", "53", "0", "", "Logical diagram0","{87BBEABE-F2CE-49dc-97C0-EF9DDA5DBC9E}");
+tocTab[tocTab.length] = new Array("0.9.1.14:2", "", "«XSDcomplexType» Clamp", "EARoot/EA9/EA1/EA14/EA2946.htm", "5.png", "E933", "0", "", "Class0","{30264CC8-78AD-42bb-9196-AA40D5BF6647}");
+tocTab[tocTab.length] = new Array("0.9.1.14:3", "", "«XSDtopLevelElement» CoveringDate", "EARoot/EA9/EA1/EA14/EA2947.htm", "5.png", "E934", "0", "", "Class0","{6BC4473C-B5CD-40e6-B99B-8420CA0CF6BE}");
+tocTab[tocTab.length] = new Array("0.9.1.14:4", "", "«XSDtopLevelElement» DeliveryDate", "EARoot/EA9/EA1/EA14/EA2948.htm", "5.png", "E935", "0", "", "Class0","{553CD7B9-9E1A-4a1e-92EC-31F57B4D7F8A}");
+tocTab[tocTab.length] = new Array("0.9.1.14:5", "", "«XSDtopLevelElement» TypeOfClampProtection", "EARoot/EA9/EA1/EA14/EA2949.htm", "5.png", "E936", "0", "", "Class0","{D2E22D67-026E-4316-8496-028B613F63D2}");

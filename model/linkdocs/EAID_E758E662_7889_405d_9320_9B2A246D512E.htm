@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title></title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+</head>
+<body>
+<div align="left">Changes made on 2012-08-22 by DG</div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">The seven datatypes that represent values are defined. AmountType, CategoryType, CountType, 
+Number/ValueType, PercentType, QuantityType and RateType.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">CodeListType in CodeType is made optional.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">PropertyVariable is deprecated. It is replaced by CodeType. </font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">Naast TreatmentZone ook een PropertyZone toegevoegd.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2"><br /></font></div><div align="left"><font size="2"><br /></font></div><div align="left">Changes made on 2012-08-28</div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">MessageHeader</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;MessageId added.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;MessageType was an enumeration. This is replaced by a CodeType. The CodeList to follow is 
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;specified as mandatory.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2"><br /></font></div><div align="left"><font size="2"><br /></font></div><div align="left">Changes made on 2012-08-29</div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">SendingParty added to the model. This is done because the IssuingParty is not always the same as the 
+Sendingparty.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">Address is moved as <b>AddressType</b> to the datatype package. there is one subclass, 
+<b>DeliveryAddressType</b> which has a GlobalLocationNumber as addissional attribute. Address has the 
+characteristics of a datatype as explained in the modeling guidelines.</font></div>
+<div align="left"><font size="2">Phone, e-mail and webpages are separate datatypes. <b>PhoneNumberType</b> is added as type, with three 
+fields. There is no need to define an e-mail type or a web-site type, as those can be represented by the 
+datatype &quot;anyURI&quot;.</font></div>
+<div align="left"><font size="2">As a consequence of the difference made in the modeling guideline between datatypes and normal 
+classes, post address, delivery address, visting address, phone, e-mail en web-page become attributes of 
+the object they belong to. They are assigned as attributes of Party, Person or Organization following the 
+logic of the attribute (Private... as attribute of Person, etc.)</font></div>
+<div align="left"><font size="2">Fax is removed from the model (Who uses it nowedays?)</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">&#160;</font>Changes made on 2012-08-30</div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2"><b>SendingParty</b> added to the model. This is done because the IssuingParty is not always the same as the 
+SendingParty.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">&quot;<b>Contact</b>&quot; associated with the SendingParty and ReceivingParty in stead of an association with the 
+Message.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2"><b>RateUnitType</b> added, to be able to specify a unit for application rates of products. ==&gt; In Product is 
+applicationRate replaced by <b>ApplicationRateUnit</b>, which is from the RateUnitType..</font></div>
+<div align="left"><font size="2">In product referentie naar standardisationAgency weg gehaald, omdat die onder CodeType al is 
+gespecificeerd.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">ProductType changed in <b>ProductCategory</b>. The expression xxxType will be reserved for data types.</font></div>
+<div align="left"><font size="2">All attributes with type in the expression changed to Category.</font></div>
+<div align="left"><font size="2">attributes concerning units removed.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">&#160;</font>Changes made on 2012-09-03</div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2"><b>PreferredSupplier</b> added as new class, with relations to Supplier, Product, ProductCategory and Farm. 
+(A Supplier is preffered for a specific product or a ProductCategory and can be ranked as a first 
+preference, second, etc. </font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">AllowedMineralsfarm is replace by <b>InputQuota</b>. InputQuota has a quantity, refers to a productElement 
+and a ProductCategory.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">The structure of <b>NutrientBalance</b> and <b>AdvisdedMineralsFarm</b> is changed conform InputQuota. (I did 
+not follow the UN CEFACT construction, to lump those three together in a meaningless abstract object). </font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2"><br /></font></div><div align="left">Changes made on 2012-09-04</div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2"><b>NutrientAllowenceCrop</b> is removed from the model. InputQuota can be used for the Farm, but also for 
+particular CropFields</font></div>
+<div align="left"><font size="4"><br /></font></div><div align="left"><font size="4">Changes at 19-9-2012</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">Begin Position and End position added to product allocation.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="4">Changes at 23-10-2012</font></div>
+<div align="left"><font size="2">A remark added to <b>TreatmentZone</b>.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">Definition of <b>PropertyZone</b> changed in that sense that it can extend over the borders of a field.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="4">Changes at 29-10-2012</font></div>
+<div align="left"><font size="2">Small modification in remarks on <b>TreatmentZone</b> (most addition of examples)</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">The association between <b>TreatmentZone</b> and <b>ProductAllocation</b> is changed such that a 
+<b>TreatmentZone</b> can have more <b>ProductAllocation</b>s.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2">Definition of <b>Job</b> is sharpened by adding the object and tiome period of execution.</font></div>
+<div align="left"><font size="2"><br /></font></div><div align="left"><font size="2"><b>JobType</b> toegevoegd.</font></div>
+<div align="left"><font size="2">Definitie aan TaskType toegevoegd.</font></div>
+</body>
+</html>

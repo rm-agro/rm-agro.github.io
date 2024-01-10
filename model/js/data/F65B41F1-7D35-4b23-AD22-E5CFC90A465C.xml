@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.3.3.1", "1", "Management", "EARoot/EA3/EA3/EA1/EA145.htm", "4.png", "", "", "{A1BD11CF-3BE9-41fc-B487-DA76897B9D37}", "Package");
+tocTab[tocTab.length] = new Array("0.3.3.2", "1", "HR", "EARoot/EA3/EA3/EA2/EA147.htm", "4.png", "", "", "{18D815D7-F00C-454b-8162-E2BEDD990CEB}", "Package");
+tocTab[tocTab.length] = new Array("0.3.3.3", "1", "IT", "EARoot/EA3/EA3/EA3/EA149.htm", "4.png", "", "", "{CA254A63-796C-4f8f-9D10-AB70E487AE5C}", "Package");
+tocTab[tocTab.length] = new Array("0.3.3.4", "1", "Marketing", "EARoot/EA3/EA3/EA4/EA151.htm", "4.png", "", "", "{CFD2A2C2-DAFD-44af-A0B8-896A82C3A11E}", "Package");
+tocTab[tocTab.length] = new Array("0.3.3.5", "1", "Delivery", "EARoot/EA3/EA3/EA5/EA153.htm", "4.png", "", "", "{A8426F24-180B-4165-8BFF-6A62B7861F79}", "Package");

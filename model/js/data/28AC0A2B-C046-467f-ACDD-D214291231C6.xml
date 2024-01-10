@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.8.3.4.2.2:1", "", "Discovering", "EARoot/EA8/EA3/EA4/EA2/EA2/EA1375.htm", "180.png", "4015", "0", "", "Use Case diagram0","{863C9E33-621C-4a78-BF22-2FF15187F410}");
+tocTab[tocTab.length] = new Array("0.8.3.4.2.2:2", "", "Discover data about AF facilites", "EARoot/EA8/EA3/EA4/EA2/EA2/EA1378.htm", "7.png", "E12063", "0", "", "UseCase0","{F18043CA-EB17-4955-8575-A218D98205A6}");
+tocTab[tocTab.length] = new Array("0.8.3.4.2.2:3", "", "Select thematic data", "EARoot/EA8/EA3/EA4/EA2/EA2/EA1379.htm", "7.png", "E12061", "0", "", "UseCase0","{A9056C41-8C4B-44ce-BBCB-B6BA9AF9D3C0}");
+tocTab[tocTab.length] = new Array("0.8.3.4.2.2:4", "", "Link data", "EARoot/EA8/EA3/EA4/EA2/EA2/EA1380.htm", "7.png", "E12060", "0", "", "UseCase0","{3A35B1D9-7E0D-41b8-B665-D60C6A5D0E15}");
+tocTab[tocTab.length] = new Array("0.8.3.4.2.2:5", "", "Use in business process", "EARoot/EA8/EA3/EA4/EA2/EA2/EA1381.htm", "7.png", "E12062", "0", "", "UseCase0","{4561E3B4-DE97-4e4e-BD15-46B41D1AD907}");

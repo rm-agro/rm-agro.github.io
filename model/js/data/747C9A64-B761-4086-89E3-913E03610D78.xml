@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.9.1.8:1", "", "Economic", "EARoot/EA9/EA1/EA8/EA2817.htm", "175.png", "51", "0", "", "Logical diagram0","{9CD34F1B-9F4F-4375-8D11-8B940253D9DC}");
+tocTab[tocTab.length] = new Array("0.9.1.8:2", "", "«XSDcomplexType» EconomicalData", "EARoot/EA9/EA1/EA8/EA2820.htm", "5.png", "E895", "0", "", "Class0","{2C0FF91D-1FDF-4f18-9339-59E321F90E63}");
+tocTab[tocTab.length] = new Array("0.9.1.8:3", "", "«XSDtopLevelElement» EconomicalDatum", "EARoot/EA9/EA1/EA8/EA2821.htm", "5.png", "E896", "0", "", "Class0","{3440AC60-7C10-427b-A774-5E29EE60F4E4}");

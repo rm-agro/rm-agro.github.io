@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.11.1.2:1", "", "drmCrop", "EARoot/EA11/EA1/EA2/EA4713.htm", "175.png", "4181", "0", "", "Logical diagram0","{E2C84A6C-8360-40cb-9390-A39B4FF0A474}");
+tocTab[tocTab.length] = new Array("0.11.1.2:2", "", "«abstract» PRS_MapLayer", "EARoot/EA11/EA1/EA2/EA4716.htm", "5.png", "E13899", "0", "", "Class0","{A744CFD6-0CDE-44df-AFEF-41298657E6DE}");
+tocTab[tocTab.length] = new Array("0.11.1.2:3", "", "«abstract» PRS_Plot", "EARoot/EA11/EA1/EA2/EA4717.htm", "5.png", "E13900", "0", "", "Class0","{26323FE8-4650-4f76-8554-0F0039626E05}");
