@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.8.9.2.1.6:1", "", "Context Diagram: CV_TINCoverage", "EARoot/EA8/EA9/EA2/EA1/EA6/EA2532.htm", "175.png", "3689", "0", "", "Logical diagram0","{EE0BF7DB-79A8-4d23-897A-3047FDD55D68}");
+tocTab[tocTab.length] = new Array("0.8.9.2.1.6:2", "", "Context Diagram: CV_ValueTriangle", "EARoot/EA8/EA9/EA2/EA1/EA6/EA2534.htm", "175.png", "3690", "0", "", "Logical diagram0","{11B5A095-05C0-4bf2-B673-93832DD007F4}");
+tocTab[tocTab.length] = new Array("0.8.9.2.1.6:3", "", "Fig 23 - CV_TINCoverage", "EARoot/EA8/EA9/EA2/EA1/EA6/EA2536.htm", "175.png", "3688", "0", "", "Logical diagram0","{470E12F2-A70B-4999-933B-11473B131A7C}");
+tocTab[tocTab.length] = new Array("0.8.9.2.1.6:4", "", "«type» CV_TINCoverage", "EARoot/EA8/EA9/EA2/EA1/EA6/EA2540.htm", "5.png", "E9017", "0", "", "Class0","{C03AE431-BCEB-485f-B924-CA7953017C03}");
+tocTab[tocTab.length] = new Array("0.8.9.2.1.6:5", "", "«type» CV_ValueTriangle", "EARoot/EA8/EA9/EA2/EA1/EA6/EA2541.htm", "5.png", "E9018", "0", "", "Class0","{C06A24D7-85FE-4579-8D46-8EDF07DF6346}");

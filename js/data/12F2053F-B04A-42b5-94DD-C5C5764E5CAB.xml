@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.10.4.8:1", "", "Direction", "EARoot/EA10/EA4/EA8/EA4136.htm", "175.png", "4210", "0", "", "Logical diagram0","{8E28762D-833B-40a0-A5ED-369D47658F83}");
+tocTab[tocTab.length] = new Array("0.10.4.8:2", "", "CompassPointEnumeration", "EARoot/EA10/EA4/EA8/EA4139.htm", "247.png", "E14564", "0", "", "Enumeration0","{4407074B-FF0E-4bb7-B699-F4E0DF5E0515}");
+tocTab[tocTab.length] = new Array("0.10.4.8:3", "", "«XSDtopLevelElement» direction", "EARoot/EA10/EA4/EA8/EA4140.htm", "5.png", "E14559", "0", "", "Class0","{3AA88C84-67F5-46c2-951A-A548E4C6B693}");
+tocTab[tocTab.length] = new Array("0.10.4.8:4", "", "«XSDcomplexType» DirectionDescriptionType", "EARoot/EA10/EA4/EA8/EA4141.htm", "5.png", "E14563", "0", "", "Class0","{F1B7E11A-A546-41db-A640-EA096ED87562}");
+tocTab[tocTab.length] = new Array("0.10.4.8:5", "", "«XSDcomplexType» DirectionPropertyType", "EARoot/EA10/EA4/EA8/EA4142.htm", "5.png", "E14560", "0", "", "Class0","{49996215-94F4-477a-B7BD-9AD7CAD72EA0}");
+tocTab[tocTab.length] = new Array("0.10.4.8:6", "", "«XSDcomplexType» DirectionVectorType", "EARoot/EA10/EA4/EA8/EA4143.htm", "5.png", "E14561", "0", "", "Class0","{1065902D-6E6C-4402-A4E6-0A9FED02525E}");
+tocTab[tocTab.length] = new Array("0.10.4.8:7", "", "«XSDsequence» ModelGroup95", "EARoot/EA10/EA4/EA8/EA4144.htm", "5.png", "E14562", "0", "", "Class0","{9F40C78E-C2C1-47c0-99BB-C66758933945}");

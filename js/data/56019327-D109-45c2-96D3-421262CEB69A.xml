@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.13.1.1.1:1", "", "TypesAdvice", "EARoot/EA13/EA1/EA1/EA1/EA5154.htm", "175.png", "4101", "0", "", "Logical diagram0","{E21EEB21-CDE4-41a9-9A35-7EBCDD8EF96D}");
+tocTab[tocTab.length] = new Array("0.13.1.1.1:2", "", "«XSDcomplexType» AdviceRequest", "EARoot/EA13/EA1/EA1/EA1/EA5158.htm", "5.png", "E13330", "0", "", "Class0","{B0FE5E5E-658C-4800-AC39-077047CF8DE6}");
+tocTab[tocTab.length] = new Array("0.13.1.1.1:3", "", "«XSDcomplexType» AdviceResponse", "EARoot/EA13/EA1/EA1/EA1/EA5159.htm", "5.png", "E13328", "0", "", "Class0","{5D5D83AB-A63E-4407-B132-ED6A0BEE7B19}");

@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.10.4.7:1", "", "Dictionary", "EARoot/EA10/EA4/EA7/EA4128.htm", "175.png", "4219", "0", "", "Logical diagram0","{7C9B9DF6-1A18-44ed-891F-10DB9547C142}");
+tocTab[tocTab.length] = new Array("0.10.4.7:2", "", "«XSDcomplexType» Definition", "EARoot/EA10/EA4/EA7/EA4131.htm", "5.png", "E14760", "0", "", "Class0","{6E634B21-F271-4a6a-BEE8-EAC1DBA97F47}");
+tocTab[tocTab.length] = new Array("0.10.4.7:3", "", "«XSDcomplexType» DefinitionBaseType", "EARoot/EA10/EA4/EA7/EA4132.htm", "5.png", "E14761", "0", "", "Class0","{C963FB98-1303-4a6b-8C6E-08C21B43704D}");
+tocTab[tocTab.length] = new Array("0.10.4.7:4", "", "«XSDcomplexType» Dictionary", "EARoot/EA10/EA4/EA7/EA4133.htm", "5.png", "E14763", "0", "", "Class0","{78D819DC-EC4F-4e4f-A56B-5D48AABFC48C}");
+tocTab[tocTab.length] = new Array("0.10.4.7:5", "", "«XSDcomplexType» dictionaryEntry", "EARoot/EA10/EA4/EA7/EA4134.htm", "5.png", "E14764", "0", "", "Class0","{E252EDAB-98ED-4ad3-803B-EB08D1CD5F68}");
+tocTab[tocTab.length] = new Array("0.10.4.7:6", "", "«XSDtopLevelElement» remarks", "EARoot/EA10/EA4/EA7/EA4135.htm", "5.png", "E14762", "0", "", "Class0","{CFAA134C-89C0-46a5-8AB0-9D24F71391FD}");

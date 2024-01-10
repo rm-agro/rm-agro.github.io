@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.5.1.8:1", "", "XSD_Types", "EARoot/EA5/EA1/EA8/EA946.htm", "175.png", "3497", "0", "", "Logical diagram0","{122A26B2-8619-42ea-819E-4D9CA2B01C37}");
+tocTab[tocTab.length] = new Array("0.5.1.8:2", "", "anyURI", "EARoot/EA5/EA1/EA8/EA950.htm", "5.png", "E8670", "0", "", "Class0","{DDB7B042-0ADF-49da-A360-D2E917765F38}");
+tocTab[tocTab.length] = new Array("0.5.1.8:3", "", "boolean", "EARoot/EA5/EA1/EA8/EA951.htm", "230.png", "E9186", "0", "", "DataType0","{CDDC5E68-C2CE-45cb-A99F-63853E99C482}");
+tocTab[tocTab.length] = new Array("0.5.1.8:4", "", "integer", "EARoot/EA5/EA1/EA8/EA952.htm", "230.png", "E9185", "0", "", "DataType0","{273F3C62-961A-4078-8075-130207CF346A}");
+tocTab[tocTab.length] = new Array("0.5.1.8:5", "", "NCName", "EARoot/EA5/EA1/EA8/EA953.htm", "230.png", "E8671", "0", "", "DataType0","{D950EB19-BD32-41f6-A98C-6A86D835E589}");
+tocTab[tocTab.length] = new Array("0.5.1.8:6", "", "«type» NMTOKEN", "EARoot/EA5/EA1/EA8/EA954.htm", "5.png", "E14956", "0", "", "Class0","{F46F32E7-6813-4426-900F-3C0149A3FCEF}");
+tocTab[tocTab.length] = new Array("0.5.1.8:7", "", "string", "EARoot/EA5/EA1/EA8/EA955.htm", "230.png", "E9184", "0", "", "DataType0","{685A4F62-AC38-47a4-A8FD-8032CC898A78}");
+tocTab[tocTab.length] = new Array("0.5.1.8:8", "", "«type» token", "EARoot/EA5/EA1/EA8/EA956.htm", "5.png", "E14957", "0", "", "Class0","{DFF91A4F-AC40-4744-AC8C-86EE350E5C6D}");

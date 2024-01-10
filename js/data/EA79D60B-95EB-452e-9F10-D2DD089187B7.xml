@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.3.1:1", "", "Community building", "EARoot/EA3/EA1/EA117.htm", "5.png", "E15091", "0", "", "Class0","{7E5E185B-C021-497e-91F0-47B51A581125}");
+tocTab[tocTab.length] = new Array("0.3.1:2", "", "Control & Maintance Requirements", "EARoot/EA3/EA1/EA118.htm", "5.png", "E15070", "0", "", "Class0","{14668177-B249-47ba-AB43-6D4F9B0C3641}");
+tocTab[tocTab.length] = new Array("0.3.1:3", "", "Design Patterns", "EARoot/EA3/EA1/EA119.htm", "5.png", "E15099", "0", "", "Class0","{14D32803-05AD-49b4-B733-B35B751F3D6E}");
+tocTab[tocTab.length] = new Array("0.3.1:4", "", "Internationaliziation", "EARoot/EA3/EA1/EA120.htm", "5.png", "E15093", "0", "", "Class0","{2D4ED2DF-C02C-44dd-B2D4-259CD46F0EDF}");
+tocTab[tocTab.length] = new Array("0.3.1:5", "", "Publishing", "EARoot/EA3/EA1/EA121.htm", "5.png", "E15069", "0", "", "Class0","{E9E9A77C-19D8-4ed9-AD8B-A3495D187CD3}");
+tocTab[tocTab.length] = new Array("0.3.1:6", "", "Versioning", "EARoot/EA3/EA1/EA122.htm", "5.png", "E15068", "0", "", "Class0","{E23D0A0D-C6FA-4f48-860F-7891075E1892}");

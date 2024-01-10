@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.9.3.1:1", "", "AanvraagTeelthistorie_lev001", "EARoot/EA9/EA3/EA1/EA3082.htm", "175.png", "3954", "0", "", "Logical diagram0","{5B965A6F-8EFE-4308-B655-E4A1E187B98A}");
+tocTab[tocTab.length] = new Array("0.9.3.1:2", "", "«XSDcomplexType» DeliveredBatchLotType", "EARoot/EA9/EA3/EA1/EA3085.htm", "5.png", "E11781", "0", "", "Class0","{125145E9-FB14-4c77-B454-0B2A98F0E974}");
+tocTab[tocTab.length] = new Array("0.9.3.1:3", "", "«XSDcomplexType» requestForGrowthHistory", "EARoot/EA9/EA3/EA1/EA3086.htm", "5.png", "E11780", "0", "", "Class0","{3876B986-8006-4286-856F-F053B01B02C3}");

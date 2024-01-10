@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.5.1.7:1", "", "SWE_Types", "EARoot/EA5/EA1/EA7/EA937.htm", "175.png", "4050", "0", "", "Logical diagram0","{5B2B5438-9206-45f7-8E78-B27B9BE3A0E0}");
+tocTab[tocTab.length] = new Array("0.5.1.7:2", "", "«type» AbstractDataComponent", "EARoot/EA5/EA1/EA7/EA940.htm", "5.png", "E12369", "0", "", "Class0","{B9FB1AF6-5702-4f3f-8095-4B34ACCA3441}");
+tocTab[tocTab.length] = new Array("0.5.1.7:3", "", "«type» AbstractEncoding", "EARoot/EA5/EA1/EA7/EA941.htm", "5.png", "E12368", "0", "", "Class0","{3FBDF8EF-F986-40b9-BEEA-B3C3529B7F06}");
+tocTab[tocTab.length] = new Array("0.5.1.7:4", "", "«type» AbstractSWE", "EARoot/EA5/EA1/EA7/EA942.htm", "5.png", "E12370", "0", "", "Class0","{018608B6-EE60-4be8-A368-A33DE0D8AFEE}");
+tocTab[tocTab.length] = new Array("0.5.1.7:5", "", "«type» AbstractSWEIdentifiable", "EARoot/EA5/EA1/EA7/EA943.htm", "5.png", "E12371", "0", "", "Class0","{06E1BE28-EA16-456f-A0C7-BDE50BD4EC80}");
+tocTab[tocTab.length] = new Array("0.5.1.7:6", "", "«type» DataArrayType", "EARoot/EA5/EA1/EA7/EA944.htm", "5.png", "E10990", "0", "", "Class0","{4DB7DF48-679C-44a0-BD8A-BFD7569FBBE8}");
+tocTab[tocTab.length] = new Array("0.5.1.7:7", "", "«type» TextEncoding", "EARoot/EA5/EA1/EA7/EA945.htm", "5.png", "E12367", "0", "", "Class0","{CD846012-E5A2-4c8e-B0BE-CE05569F0E73}");

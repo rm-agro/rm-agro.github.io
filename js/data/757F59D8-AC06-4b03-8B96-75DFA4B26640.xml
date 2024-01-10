@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.8.8.2:1", "", "Fig 1", "EARoot/EA8/EA8/EA2/EA2200.htm", "175.png", "3579", "0", "", "Logical diagram0","{C8EC6E14-33A1-4902-AE02-E549A4DD9174}");
+tocTab[tocTab.length] = new Array("0.8.8.2:2", "", "Fig 2", "EARoot/EA8/EA8/EA2/EA2202.htm", "175.png", "3580", "0", "", "Logical diagram0","{08D90ED8-511D-4246-BE69-4CAA308C0D46}");
+tocTab[tocTab.length] = new Array("0.8.8.2:3", "", "Fig 3", "EARoot/EA8/EA8/EA2/EA2204.htm", "175.png", "3581", "0", "", "Logical diagram0","{E148C600-6B01-4e2e-97B4-1E388BBD6702}");
+tocTab[tocTab.length] = new Array("0.8.8.2:4", "", "«type» CD_ParametricDatum", "EARoot/EA8/EA8/EA2/EA2207.htm", "5.png", "E8783", "0", "", "Class0","{E6D2FC71-7477-463a-9489-1449FD43A624}");
+tocTab[tocTab.length] = new Array("0.8.8.2:5", "", "«type» CS_ParametricCS", "EARoot/EA8/EA8/EA2/EA2208.htm", "5.png", "E8785", "0", "", "Class0","{6A839D6E-4A7A-4418-8E5D-EC1F9D08B474}");
+tocTab[tocTab.length] = new Array("0.8.8.2:6", "", "«type» SC_ParametricCRS", "EARoot/EA8/EA8/EA2/EA2209.htm", "5.png", "E8784", "0", "", "Class0","{C5554BA6-F41F-47b3-B7C7-1C5B208723B0}");

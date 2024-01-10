@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0.10.1.3:1", "", "Block_components", "EARoot/EA10/EA1/EA3/EA3542.htm", "175.png", "4191", "0", "", "Logical diagram0","{69A975B6-25FC-46ce-8101-3318A490CA8A}");
+tocTab[tocTab.length] = new Array("0.10.1.3:2", "", "«XSDcomplexType» DataArray", "EARoot/EA10/EA1/EA3/EA3545.htm", "5.png", "E14048", "0", "", "Class0","{4983950F-C03D-4b87-9CD8-7B92F13DCC8A}");
+tocTab[tocTab.length] = new Array("0.10.1.3:3", "", "«XSDcomplexType» DataArrayPropertyByValueType", "EARoot/EA10/EA1/EA3/EA3546.htm", "5.png", "E14052", "0", "", "Class0","{2B52CD93-6345-46b1-8166-9AAE9055F2C1}");
+tocTab[tocTab.length] = new Array("0.10.1.3:4", "", "«XSDcomplexType» DataArrayPropertyType", "EARoot/EA10/EA1/EA3/EA3547.htm", "5.png", "E14051", "0", "", "Class0","{790D32D2-A85E-4160-9479-95823C384ADA}");
+tocTab[tocTab.length] = new Array("0.10.1.3:5", "", "«XSDcomplexType» DataStream", "EARoot/EA10/EA1/EA3/EA3548.htm", "5.png", "E14056", "0", "", "Class0","{9267BFF7-9C90-4cbb-93DC-52887DB57764}");
+tocTab[tocTab.length] = new Array("0.10.1.3:6", "", "«XSDcomplexType» DataStreamPropertyByValueType", "EARoot/EA10/EA1/EA3/EA3549.htm", "5.png", "E14061", "0", "", "Class0","{31BAFAB8-0D1C-4a18-AA47-696593F91CCA}");
+tocTab[tocTab.length] = new Array("0.10.1.3:7", "", "«XSDcomplexType» DataStreamPropertyType", "EARoot/EA10/EA1/EA3/EA3550.htm", "5.png", "E14060", "0", "", "Class0","{1729DCD2-2D41-40dc-8B7D-C03A45F1C7E0}");
+tocTab[tocTab.length] = new Array("0.10.1.3:8", "", "«XSDcomplexType» Matrix", "EARoot/EA10/EA1/EA3/EA3551.htm", "5.png", "E14053", "0", "", "Class0","{E8E24097-8AE5-4bfa-AA3B-D127086AFC7C}");
+tocTab[tocTab.length] = new Array("0.10.1.3:9", "", "«XSDcomplexType» MatrixPropertyByValueType", "EARoot/EA10/EA1/EA3/EA3552.htm", "5.png", "E14055", "0", "", "Class0","{3230A43B-410C-4c35-8D05-5736896EC250}");
+tocTab[tocTab.length] = new Array("0.10.1.3:10", "", "«XSDcomplexType» MatrixPropertyType", "EARoot/EA10/EA1/EA3/EA3553.htm", "5.png", "E14054", "0", "", "Class0","{D8E620A8-BC8A-4dcd-8374-9B1D832E12FD}");
+tocTab[tocTab.length] = new Array("0.10.1.3:11", "", "«XSDcomplexType» elementType", "EARoot/EA10/EA1/EA3/EA3554.htm", "5.png", "E14049", "E14048", "", "Class0","{272B472D-DABA-4bc4-92E0-5547841624F1}");
+tocTab[tocTab.length] = new Array("0.10.1.3:12", "", "«XSDcomplexType» encoding", "EARoot/EA10/EA1/EA3/EA3555.htm", "5.png", "E14050", "E14048", "", "Class0","{0AD93E08-5541-491a-88D3-4A0CCE3AF7B8}");
+tocTab[tocTab.length] = new Array("0.10.1.3:13", "", "«XSDcomplexType» elementCount", "EARoot/EA10/EA1/EA3/EA3556.htm", "5.png", "E14057", "E14056", "", "Class0","{FC59767A-1587-4901-9C50-074AE00AB0A2}");
+tocTab[tocTab.length] = new Array("0.10.1.3:14", "", "«XSDcomplexType» elementType", "EARoot/EA10/EA1/EA3/EA3557.htm", "5.png", "E14058", "E14056", "", "Class0","{6B877C35-1958-43f9-8A93-8835580C9FF5}");
+tocTab[tocTab.length] = new Array("0.10.1.3:15", "", "«XSDcomplexType» encoding", "EARoot/EA10/EA1/EA3/EA3558.htm", "5.png", "E14059", "E14056", "", "Class0","{9E7C7B43-6507-4c53-A32B-30B29C584560}");

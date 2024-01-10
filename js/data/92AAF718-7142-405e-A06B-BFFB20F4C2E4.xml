@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.10.4.14:1", "", "GeometryComplexes", "EARoot/EA10/EA4/EA14/EA4256.htm", "175.png", "4211", "0", "", "Logical diagram0","{2D0E6E76-94C9-40b9-8858-C3B947E6F043}");
+tocTab[tocTab.length] = new Array("0.10.4.14:2", "", "«XSDcomplexType» CompositeCurve", "EARoot/EA10/EA4/EA14/EA4259.htm", "5.png", "E14569", "0", "", "Class0","{823C257D-9EB4-49de-BB44-A90D7B989553}");
+tocTab[tocTab.length] = new Array("0.10.4.14:3", "", "«XSDcomplexType» CompositeSolid", "EARoot/EA10/EA4/EA14/EA4260.htm", "5.png", "E14571", "0", "", "Class0","{63882962-658C-461c-B27E-B5989877FE96}");
+tocTab[tocTab.length] = new Array("0.10.4.14:4", "", "«XSDcomplexType» CompositeSurface", "EARoot/EA10/EA4/EA14/EA4261.htm", "5.png", "E14570", "0", "", "Class0","{E79C3871-3FBA-480a-A6A1-0567B8C0F715}");
+tocTab[tocTab.length] = new Array("0.10.4.14:5", "", "«XSDcomplexType» GeometricComplex", "EARoot/EA10/EA4/EA14/EA4262.htm", "5.png", "E14566", "0", "", "Class0","{2B2BBEB9-89F7-48d4-B1AE-339FA90E701A}");
+tocTab[tocTab.length] = new Array("0.10.4.14:6", "", "«XSDcomplexType» GeometricComplexPropertyType", "EARoot/EA10/EA4/EA14/EA4263.htm", "5.png", "E14567", "0", "", "Class0","{DC745AD8-7520-452e-9AE2-C93351299B54}");
+tocTab[tocTab.length] = new Array("0.10.4.14:7", "", "«XSDchoice» ModelGroup96", "EARoot/EA10/EA4/EA14/EA4264.htm", "5.png", "E14568", "0", "", "Class0","{6F85ECC9-F602-47ba-A209-DFA9B06D59FD}");

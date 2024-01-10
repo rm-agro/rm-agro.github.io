@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.9.1.15:1", "", "WeatherStation", "EARoot/EA9/EA1/EA15/EA2950.htm", "175.png", "54", "0", "", "Logical diagram0","{1E2E8A3C-D485-4c73-985F-83DEE2E89CAC}");
+tocTab[tocTab.length] = new Array("0.9.1.15:2", "", "«XSDcomplexType» Climate", "EARoot/EA9/EA1/EA15/EA2953.htm", "5.png", "E938", "0", "", "Class0","{5A9E7500-34E1-474c-9CE6-EA7898737A8C}");
+tocTab[tocTab.length] = new Array("0.9.1.15:3", "", "«XSDtopLevelElement» Humidity", "EARoot/EA9/EA1/EA15/EA2954.htm", "5.png", "E943", "0", "", "Class0","{25D4E104-E02A-471d-852C-D12DA6036C28}");
+tocTab[tocTab.length] = new Array("0.9.1.15:4", "", "«XSDtopLevelElement» Precipitation", "EARoot/EA9/EA1/EA15/EA2955.htm", "5.png", "E944", "0", "", "Class0","{C550E3C8-C96C-4d79-A10D-A9DAFE983BA4}");
+tocTab[tocTab.length] = new Array("0.9.1.15:5", "", "«XSDtopLevelElement» SolarRadiation", "EARoot/EA9/EA1/EA15/EA2956.htm", "5.png", "E945", "0", "", "Class0","{AC72CEA1-50E5-4be3-81DE-B69D04106548}");
+tocTab[tocTab.length] = new Array("0.9.1.15:6", "", "«XSDtopLevelElement» Speed", "EARoot/EA9/EA1/EA15/EA2957.htm", "5.png", "E941", "0", "", "Class0","{CB6C0A92-1A38-4965-A40E-214CF6216D90}");
+tocTab[tocTab.length] = new Array("0.9.1.15:7", "", "«XSDtopLevelElement» SpeedAverage", "EARoot/EA9/EA1/EA15/EA2958.htm", "5.png", "E946", "0", "", "Class0","{FABA700C-7C17-4ce2-A11D-19095BF568A3}");
+tocTab[tocTab.length] = new Array("0.9.1.15:8", "", "«XSDtopLevelElement» SpeedMax", "EARoot/EA9/EA1/EA15/EA2959.htm", "5.png", "E947", "0", "", "Class0","{FC63734B-B6DA-4e93-AEA5-07468730C7C5}");
+tocTab[tocTab.length] = new Array("0.9.1.15:9", "", "«XSDtopLevelElement» SpeedMin", "EARoot/EA9/EA1/EA15/EA2960.htm", "5.png", "E948", "0", "", "Class0","{305EC2A0-A8F2-406b-9609-53D16D04C63A}");
+tocTab[tocTab.length] = new Array("0.9.1.15:10", "", "«XSDcomplexType» SpeedsType", "EARoot/EA9/EA1/EA15/EA2961.htm", "5.png", "E940", "0", "", "Class0","{55F3A659-BAA4-47b8-ADD6-1ABC6276912E}");
+tocTab[tocTab.length] = new Array("0.9.1.15:11", "", "«XSDcomplexType» WeatherStation", "EARoot/EA9/EA1/EA15/EA2962.htm", "5.png", "E939", "0", "", "Class0","{02D323BA-4A5D-46cf-8E98-A0A25A0DB35C}");
+tocTab[tocTab.length] = new Array("0.9.1.15:12", "", "«XSDtopLevelElement» WindSpeed", "EARoot/EA9/EA1/EA15/EA2963.htm", "5.png", "E942", "0", "", "Class0","{8BB6C897-C835-407c-A1C0-DC8205F85F3D}");

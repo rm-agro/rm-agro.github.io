@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.8.9.1.5:1", "", "Discrete Coverage", "EARoot/EA8/EA9/EA1/EA5/EA2279.htm", "175.png", "3605", "0", "", "Logical diagram0","{52CB124A-63CE-475d-952F-4A78B74345D8}");
+tocTab[tocTab.length] = new Array("0.8.9.1.5:2", "", "Range Subset", "EARoot/EA8/EA9/EA1/EA5/EA2281.htm", "175.png", "3606", "0", "", "Logical diagram0","{AB16006F-CA91-4557-9B99-3397B469135E}");
+tocTab[tocTab.length] = new Array("0.8.9.1.5:3", "", "«interface» CV_DiscreteCoverage", "EARoot/EA8/EA9/EA1/EA5/EA2285.htm", "5.png", "E8943", "0", "", "Class0","{874D2742-CD3E-4824-8FEC-FDB7D5ABB7B9}");
+tocTab[tocTab.length] = new Array("0.8.9.1.5:4", "", "«interface» CV_RangeSubset", "EARoot/EA8/EA9/EA1/EA5/EA2286.htm", "5.png", "E8942", "0", "", "Class0","{72DD6406-DBD0-4a91-8E00-E156AEBE992A}");
+tocTab[tocTab.length] = new Array("0.8.9.1.5:5", "", "«datatype» CV_IncludedField", "EARoot/EA8/EA9/EA1/EA5/EA2287.htm", "5.png", "E8944", "0", "", "Class0","{5D5A894E-0BBD-4530-B00A-AE4734DE2E9D}");
+tocTab[tocTab.length] = new Array("0.8.9.1.5:6", "", "«datatype» CV_IncludedKeyValues", "EARoot/EA8/EA9/EA1/EA5/EA2288.htm", "5.png", "E8941", "0", "", "Class0","{BB80EF3F-8C34-4861-B6DA-25D09DC33B3F}");

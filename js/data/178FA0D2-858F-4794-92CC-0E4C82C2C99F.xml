@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.10.1.5:1", "", "Record_components", "EARoot/EA10/EA1/EA5/EA3567.htm", "175.png", "4188", "0", "", "Logical diagram0","{25E5806C-C04E-4ae2-A289-96FA198D3A51}");
+tocTab[tocTab.length] = new Array("0.10.1.5:2", "", "«XSDcomplexType» DataRecord", "EARoot/EA10/EA1/EA5/EA3570.htm", "5.png", "E13994", "0", "", "Class0","{FA403C2B-E667-44a8-BBB8-DFF6520A8BAC}");
+tocTab[tocTab.length] = new Array("0.10.1.5:3", "", "«XSDcomplexType» DataRecordPropertyByValueType", "EARoot/EA10/EA1/EA5/EA3571.htm", "5.png", "E13997", "0", "", "Class0","{B481DA1E-2393-4dc1-A583-F55EA7A529F3}");
+tocTab[tocTab.length] = new Array("0.10.1.5:4", "", "«XSDcomplexType» DataRecordPropertyType", "EARoot/EA10/EA1/EA5/EA3572.htm", "5.png", "E13996", "0", "", "Class0","{5C60FFAA-FFF4-4658-B213-47F96EF1CD9A}");
+tocTab[tocTab.length] = new Array("0.10.1.5:5", "", "«XSDcomplexType» Vector", "EARoot/EA10/EA1/EA5/EA3573.htm", "5.png", "E13998", "0", "", "Class0","{B7852D56-D531-4a8f-8A30-EDF6EE4B897B}");
+tocTab[tocTab.length] = new Array("0.10.1.5:6", "", "«XSDcomplexType» VectorPropertyByValueType", "EARoot/EA10/EA1/EA5/EA3574.htm", "5.png", "E14001", "0", "", "Class0","{5AA9BE4B-C537-4633-A5AA-BB746E76D25B}");
+tocTab[tocTab.length] = new Array("0.10.1.5:7", "", "«XSDcomplexType» VectorPropertyType", "EARoot/EA10/EA1/EA5/EA3575.htm", "5.png", "E14000", "0", "", "Class0","{538ECF2A-E7F1-4f4d-BE7B-B85EB39653E4}");
+tocTab[tocTab.length] = new Array("0.10.1.5:8", "", "«XSDcomplexType» field", "EARoot/EA10/EA1/EA5/EA3576.htm", "5.png", "E13995", "E13994", "", "Class0","{E85E83B9-0BDF-4950-8770-9A71094BC067}");
+tocTab[tocTab.length] = new Array("0.10.1.5:9", "", "«XSDcomplexType» coordinate", "EARoot/EA10/EA1/EA5/EA3577.htm", "5.png", "E13999", "E13998", "", "Class0","{3AD1DF21-CDC3-460e-B9F8-5C89C818E6BA}");
